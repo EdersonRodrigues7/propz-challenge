@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1465,
+        "name": "Tênis Nike Court Vision - Azul",
+        "detail": "Tamanho: 42",
+        "photo": "tenis.png",
+        "fullPrice": 320.00,
+        "discount": 10
+    },
+    {
+        "id": 5435,
+        "name": "Camiseta LA Lakers Kobe Bryant - Nike",
+        "detail": "Edição: Black Mamba",
+        "photo": "camiseta-lakers.png",
+        "fullPrice": 199.99,
+        "discount": 20
+    },
+    {
+        "id": 6435,
+        "name": "Shorts para academia - Ditz",
+        "detail": "Cor: Preto",
+        "photo": "shorts.png",
+        "fullPrice": 44.90,
+        "discount": 15
+    },
+    {
+        "id": 2763,
+        "name": "Bola Futebol Americano - Penalty",
+        "detail": "Cor: Preto",
+        "photo": "bola.png",
+        "fullPrice": 126.50,
+        "discount": 15
+    },
+    {
+        "id": 6433,
+        "name": "Jersey NE Patriots Mac Jones - NFL",
+        "detail": "Cor: Branco",
+        "photo": "patriots.png",
+        "fullPrice": 230.00,
+        "discount": 20
+    },
+    {
+        "id": 8415,
+        "name": "Chuteira Society Nike Beco",
+        "detail": "Cor: Vermelho",
+        "photo": "chuteira.png",
+        "fullPrice": 208.90,
+        "discount": 15
+    }
+]
