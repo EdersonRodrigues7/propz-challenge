@@ -1,7 +1,5 @@
 import products from './products.json' assert {type: 'json'};
 
-const logoPropz = '../assets/images/logo-propz.png';
-const marketImg = '../assets/images/mercado.jpg';
 const imgPath = '../assets/images/';
 const panel = document.getElementById('promotions-panel');
 
